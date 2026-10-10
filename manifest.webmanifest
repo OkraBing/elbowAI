@@ -1,0 +1,31 @@
+{
+  "name": "elbowAI 肘关节问诊助手",
+  "short_name": "elbowAI",
+  "description": "说说胳膊肘哪里不舒服，读懂检查报告，整理就诊建议和就诊摘要。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAF9",
+  "theme_color": "#EEF7F4",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./"
+}
